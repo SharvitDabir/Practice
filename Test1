@@ -1,0 +1,24 @@
+git clone
+git status
+git add imu.py
+git status
+
+git commit -m "added imu"
+
+git push
+
+
+
+
+
+
+git pull
+
+
+
+
+git branch
+git branch testing_1
+git branch 
+
+git checkout testing_1
